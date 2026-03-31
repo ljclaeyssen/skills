@@ -12,6 +12,7 @@ npx skills add ljclaeyssen/skills
 
 | Skill | Description |
 |-------|-------------|
+| [blizzard-api](skills/blizzard-api) | Integrate the Blizzard Battle.net API and Raider.io API — character profiles, equipment, M+ scores, guild rosters, and more |
 | [wowhead-tooltips](skills/wowhead-tooltips) | Integrate Wowhead item tooltips, icons, and colored links into any web project (Angular, React, Vue, vanilla) |
 
 ## License
